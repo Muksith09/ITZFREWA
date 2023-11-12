@@ -183,7 +183,7 @@ footer{
     }
     img{
         transform: scale(0.75);
-        border-radious:1.5em;
+        border-radius:1.5em;
     }
     .img{
         padding: 0;
